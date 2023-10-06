@@ -1,28 +1,38 @@
-# Selectores
+# Selectores 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
+## descripcion:
+<p>
+La funcion de esta aplicacion va a ser optener la informacion de paises por medio de selectores que iremos llenando conforme ocupemos avanzar 
+</p>
 
-## Development server
+### objetivo:
+<p>
+Esta aplicacion se enfoca en trabajar con formularios reactivos pero con campos anidados de manera reactiva (selectores dinamoicos) de paso trabajaremos mucho con RXJS
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+</p>
 
-## Code scaffolding
+### temas vistos en esta app:
+<p>
+1.Selectores anidados
+2.Llenar selectores desde peticiones HTTP
+3.Encadenamiento de operadores de RXJS
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Paginas usadas:
+<p>
+https://angular.io/guide/reactive-forms
+</p>
 
-## Build
+## Acceso al proyecto:
+### pasos
+<p>
+1. Clonar el proyecto
+2. Ejecutar '''npm install'''
+3. Ejecutar "'code .'"
+4. Ejecutar la app "'ng server -o'"
+</p>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# 07-selectores
+## tecnologias usadas:
+<p>
+Angular 16.1.5
+</p>
